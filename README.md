@@ -33,13 +33,6 @@ Currently, I am exploring **Artificial Intelligence and Machine Learning** while
 - 👗 ClothCraft – Custom Clothing Design Platform
 - 💼 Personal Portfolio Website
 
----
-
-## 📊 GitHub Stats
-
-![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejal827&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejal827&layout=compact&theme=tokyonight)
 
 <!--
 **sejal827/sejal827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
