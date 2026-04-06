@@ -24,15 +24,8 @@ Currently, I am exploring **Artificial Intelligence and Machine Learning** while
 - React, Tailwind CSS
 - Node.js, Express.js
 - MongoDB, MySQL
-- Git & GitHub
 
 ---
-
-## 🚀 Featured Projects
-- 🌍 Wanderlust – Travel Listing App
-- 👗 ClothCraft – Custom Clothing Design Platform
-- 💼 Personal Portfolio Website
-
 
 <!--
 **sejal827/sejal827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
