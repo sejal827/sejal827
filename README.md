@@ -15,8 +15,6 @@ I am a passionate **Full Stack Developer (MERN)** with strong frontend and backe
 
 Currently, I am exploring **Artificial Intelligence and Machine Learning** while improving my development and problem-solving skills.
 
-🚀 Open to internship opportunities and collaborative projects.
-
 ---
 
 ## 🛠 Tech Stack
